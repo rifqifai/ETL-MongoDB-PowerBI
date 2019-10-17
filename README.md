@@ -20,7 +20,7 @@ Pemrosesan ETL menggunakan Pentaho ke Mongodb yang divisualisasikan dengan Power
 ### Dashboard
 ![dashobard](https://github.com/rifqifai/ETL-MongoDB-PowerBI/blob/master/power%20bi/dashboard.png)
 
-### By Moview
+### By Movie
 ![by movie](https://github.com/rifqifai/ETL-MongoDB-PowerBI/blob/master/power%20bi/by%20movie.png)
 
 ### By Genre
